@@ -1,6 +1,6 @@
 Spring boot app.
 I used PSQL with url in application.properties.
-(there is also h2 db, i didnt use it so im not sure it will work as well).
+(there is also h2 db).
  
 Example endpoints:  
  

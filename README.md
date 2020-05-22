@@ -1,4 +1,4 @@
- Spring Boot 2.2.5 and Spring Security 5.2.2 app
+### Spring Boot 2.2.5 and Spring Security 5.2.2 app
 I used PSQL with url in application.properties.
 (there is also h2 db).
  
